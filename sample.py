@@ -5,4 +5,4 @@ def login(user_name,user_password):
         else:
             return "incorrect password"
     else:
-        return "incorrect username"
+        return "incorrect user"
